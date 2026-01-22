@@ -16,8 +16,9 @@ Interested in Python, data, and computer vision.
 ---
 ### 📂 Projects
 - *Phone Book*
-  Simple Python phone book app  
-Add, delete, search, and display contacts .
+  
+  Simple Python phone book app  Add, delete, search, and display contacts .
 - *Study Watchdog*
+  
   A self-learning project using computer vision to monitor focus during study sessions.
 
